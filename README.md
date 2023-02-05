@@ -2,5 +2,5 @@ Test Automation Framework for Web, WebServices And Mobile. Contains core files t
 
 **Overview**
 TestScript package contains the automated tests segregated as per application type.
-Base package contains methods to launch browser, open mobile app and perform actions.
+Base package contains methods to launch browser, open mobile application and perform actions.
 ApplicationPageLibrary contains application specific locators and methods.
