@@ -7,6 +7,7 @@ For Web, WebServices And Mobile; contains core files that can be used to start a
 - ApplicationPageLibrary contains application specific locators and methods.
 
 **To Do tasks in pipeline**
+- Add unit tests for framework use case verification
 - Separate framework files from the application specific classes
 - Add customized html report
 - Support for execution on cloud VMs
