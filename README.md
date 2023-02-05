@@ -1,3 +1,6 @@
-Test Automation Framework for Web, WebServices And Mobile
+Test Automation Framework for Web, WebServices And Mobile. Contains core files that can be used to start automating test cases.
 
-Contains core files that can be used to automate test cases
+**Overview**
+TestScript package contains the automated tests segregated as per application type.
+Base package contains methods to launch browser, open mobile app and perform actions.
+ApplicationPageLibrary contains application specific locators and methods.
